@@ -1,0 +1,30 @@
+Signed transaction with txID: ADI6HDVCLMYHZXFHC4M6SO6UHCKFAJXGIM2EIL6LOLTKGWN3VVFA
+TXID:  ADI6HDVCLMYHZXFHC4M6SO6UHCKFAJXGIM2EIL6LOLTKGWN3VVFA
+Result confirmed in round: 26870671
+Transaction information: {
+    "asset-index": 153070630,
+    "confirmed-round": 26870671,
+    "pool-error": "",
+    "txn": {
+        "sig": "+9xihlRP0oEYWVANsBTKWV8JLJY6toiJ7Fv2N7ASeLyHaN/ezYJY26XO2I+I4fgL5DQO2Dm+8kEaNUKkDiJIBg==",
+        "txn": {
+            "apar": {
+                "an": "ENB",
+                "c": "MUNMWCHJSTPQNB4O74ML6EHXJBBZTFAMSRSUHVYOQFBXZL2AHA7KCKJPCI",
+                "f": "MUNMWCHJSTPQNB4O74ML6EHXJBBZTFAMSRSUHVYOQFBXZL2AHA7KCKJPCI",
+                "m": "MUNMWCHJSTPQNB4O74ML6EHXJBBZTFAMSRSUHVYOQFBXZL2AHA7KCKJPCI",
+                "r": "MUNMWCHJSTPQNB4O74ML6EHXJBBZTFAMSRSUHVYOQFBXZL2AHA7KCKJPCI",
+                "t": 1000,
+                "un": "ENB"
+            },
+            "fee": 1000,
+            "fv": 26870652,
+            "gen": "testnet-v1.0",
+            "gh": "SGO1GKSzyE7IEPItTxCByw9x8FmnrCDexi9/cOUJOiI=",
+            "lv": 26871652,
+            "snd": "MUNMWCHJSTPQNB4O74ML6EHXJBBZTFAMSRSUHVYOQFBXZL2AHA7KCKJPCI",
+            "type": "acfg"
+        }
+    }
+}
+Asset ID:  153070630
